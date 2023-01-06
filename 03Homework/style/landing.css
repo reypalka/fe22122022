@@ -41,7 +41,7 @@ a{
     color: black;
     text-decoration: none;
     font-size: 21px;
-    padding: 12px;
+    margin: 12px 12px;
     font-weight: 500;
 }
 .button{
@@ -76,9 +76,7 @@ header{
 }
 /* header end */
 .first-screen{
-    /* margin-left: 200px; */
     margin: 118px auto;
-    /* margin-bottom: 118px; */
     vertical-align:middle;
     width: 1200px
 }
