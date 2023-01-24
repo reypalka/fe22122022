@@ -185,7 +185,7 @@ h2{
     display: inline-flex;
     width: 16px;
     height: 24px;
-    background-image: url("..img/arrow.png");
+    background-image: url("../img/arrow.png");
     margin-left: 9px;
 }
 .content{
@@ -246,7 +246,7 @@ p{
     display: inline-flex;
     width: 24px;
     height: 16px;
-    background-image: url("..img/arrow_yellow.png");
+    background-image: url("../img/arrow_yellow.png");
     background-repeat: no-repeat;
     position: relative;
     left: 9px;
@@ -433,7 +433,7 @@ form.footer{
     width: 70.51px;
     height: 70.51x;
     background-color:#FFA343;
-    background-image:url("..img/arrow-right.png");
+    background-image:url("../img/arrow-right.png");
     background-repeat: no-repeat;
     background-size: 27.65px;
     background-position: center;
